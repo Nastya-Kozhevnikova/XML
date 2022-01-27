@@ -1,8 +1,8 @@
 <info>
 <ID>1</ID>
-<Title>the_Registration_button_is_not_pressed</Title>
+<Title>the_registration_button_is_not_pressed</Title>
 <Steps_to_reproduce>open_the_website_and_click_the_register_button</Steps_to_reproduce> 
-<Expected_result>when_you_click_on_the_registration_button_a_questionnaire_appears_to_fill_in_the_data</Expected result>
+<Expected_result>when_you_click_on_the_registration_button_a_questionnaire_appears_to_fill_in_the_data</Expected_result>
 <Actual_result>when_you_click_on_the_register_button_nothing_happens</Actual_result>
 <Priority>Medium</Priority>
 </info>
